@@ -1,0 +1,4 @@
+﻿  20240130_algorythm_study.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\donch\MyFiles\CodeTest\20240130_algorythm_study\20240130_algorythm_study\20240130_algorythm_study.cpp(15,8): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  20240130_algorythm_study.vcxproj -> C:\Users\donch\MyFiles\CodeTest\20240130_algorythm_study\x64\Debug\20240130_algorythm_study.exe
