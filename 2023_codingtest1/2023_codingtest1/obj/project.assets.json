@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donch\\MyFiles\\CodeTest\\2023_FromSoftware_test1_selfStudy\\2023_FromSoftware_test1_selfStudy\\2023_FromSoftware_test1_selfStudy.csproj",
-      "projectName": "2023_FromSoftware_test1_selfStudy",
-      "projectPath": "C:\\Users\\donch\\MyFiles\\CodeTest\\2023_FromSoftware_test1_selfStudy\\2023_FromSoftware_test1_selfStudy\\2023_FromSoftware_test1_selfStudy.csproj",
+      "projectUniqueName": "D:\\Data\\Projects\\code-test\\2023_codingtest1\\2023_FromSoftware_test1_selfStudy\\2023_codingtest1.csproj",
+      "projectName": "2023_codingtest1",
+      "projectPath": "D:\\Data\\Projects\\code-test\\2023_codingtest1\\2023_FromSoftware_test1_selfStudy\\2023_codingtest1.csproj",
       "packagesPath": "C:\\Users\\donch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donch\\MyFiles\\CodeTest\\2023_FromSoftware_test1_selfStudy\\2023_FromSoftware_test1_selfStudy\\obj\\",
+      "outputPath": "D:\\Data\\Projects\\code-test\\2023_codingtest1\\2023_FromSoftware_test1_selfStudy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\donch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
